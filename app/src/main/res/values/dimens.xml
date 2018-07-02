@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="fragmentContainerMargin">15dp</dimen>
+    <dimen name="headerBodyMargin">5dp</dimen>
+    <dimen name="textFontSize">18sp</dimen>
+    <dimen name="headerFontSize">24sp</dimen>
+    <dimen name="viewMargin">5dp</dimen>
+    <dimen name="collectionItemMargin">10dp</dimen>
+    <dimen name="cardViewMinHeight">70dp</dimen>
+    <dimen name="widgetPadding">5dp</dimen>
+    <dimen name="widgetBodyMarginTop">40dp</dimen>
+
+    <!--
+Refer to App Widget Documentation for margin information
+http://developer.android.com/guide/topics/appwidgets/index.html#CreatingLayout
+    -->
+    <dimen name="widget_margin">8dp</dimen>
+</resources>
